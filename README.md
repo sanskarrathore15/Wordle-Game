@@ -86,3 +86,5 @@ The menu provides two options:
 ## Conclusion
 
 The **Wordle Game** offers a user-friendly interface with engaging difficulty levels and helpful gameplay features such as counters, statistics, and useful controls like **Erase**, **Enter**, and **Exit** buttons. The game's real-time feedback and progression system make it an enjoyable and challenging experience for players of all skill levels.
+
+<a href="https://youtu.be/zmybXvFpg-8">Gameplay Video</a>
